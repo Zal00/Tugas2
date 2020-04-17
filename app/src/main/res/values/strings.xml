@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">tugas2</string>
+    <string name="register">Register</string>
+    <string name="txtregister">"doesn't" have account? <b>Register</b></string>
+    <string name="btnconnect">CONNECT WITH FACEBOOK</string>
+    <string name="or">OR</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="default_location">Default Location</string>
+    <string name="agree_with_terms_and_conditions">Agree with Terms and Conditions</string>
+    <string name="home_address">Home Address</string>
+    <string name="organization">Organization</string>
+    <string name="personal">Personal</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="actacount">Tnak you for registering with us. One more \nstep, you need to check your email \nto active your account</string>
+    <string name="almost_there">Almost There</string>
+    <string name="verify_your_account">Verify your Account</string>
+    <string name="we_have_send_verification_code_to_your_email">We have send verification code to your email</string>
+    <string name="enter_verification_code_here">enter verification code here..</string>
+    <string name="send">SEND</string>
+    <string name="doesn_t_get_the_code_resend">doesn\'t get the code? <b>Resend</b></string>
+
+    <string-array name="goldar">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+
+    <string-array name="reshus">
+        <item>Reshus</item>
+    </string-array>
+
+    <string-array name="job">
+        <item>Job</item>
+    </string-array>
+</resources>

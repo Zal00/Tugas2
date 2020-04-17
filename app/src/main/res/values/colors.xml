@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mainBackground">#43b3e6</color>
+    <color name="textWhite">#ffffff</color>
+    <color name="bg_editview">#ffffff</color>
+    <color name="rd">#808284</color>s
+    <color name="bg_intreg">#939597</color>
+    <color name="txtbiru">#43b3e6</color>
+    <color name="separator">#939597</color>
+    <color name="txthitam">#404041</color>
+</resources>
